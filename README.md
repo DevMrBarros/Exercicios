@@ -223,6 +223,6 @@ O código também inclui exemplos de como realizar a validação cruzada e calcu
 
 - Para executar o código e obter os resultados, basta copiar os trechos relevantes e colá-los em um ambiente Python com as bibliotecas necessárias instaladas. Certifique-se de ter o arquivo WineQT.csv no mesmo diretório do arquivo de script que está utilizando para ler o conjunto de dados.
 
-- Este é apenas um exemplo de um README.md e você pode adicionar mais detalhes conforme necessário para o seu projeto. Certifique-se de incluir informações relevantes sobre o contexto do projeto, como instalar e executar o código, e uma descrição mais detalhada das análises e modelos implementados.
+
 
 
